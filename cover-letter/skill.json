@@ -1,0 +1,13 @@
+{
+  "name": "cover-letter",
+  "title": "Cover letter",
+  "description": "Analyses a CV and a job posting, flags text planted for AI tools, and writes a personalised cover letter.",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-22",
+      "notes": "First version: CV and posting analysis, planted-text detection, matching, and the letter."
+    }
+  ]
+}
