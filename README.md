@@ -10,6 +10,7 @@ Each skill is a set of instructions you give your own AI assistant (ChatGPT, Cla
 |---|---|---|
 | [`cover-letter`](cover-letter/) | Analyses your CV and a job posting, flags text planted for AI tools, and writes a personalised cover letter. | [1.0.0](cover-letter/versions/1.0.0/SKILL.md) |
 | [`cv-review`](cv-review/) | Scores your CV the way recruiters and ATS software read it, explains what to fix, and improves it with you without inventing anything. | [1.0.0](cv-review/versions/1.0.0/SKILL.md) |
+| [`cv-tailor`](cv-tailor/) | Analyses a job posting against your CV, scores the match, and rewrites the CV for that role without inventing anything. | [1.0.0](cv-tailor/versions/1.0.0/SKILL.md) |
 
 ## Using a skill
 

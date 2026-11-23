@@ -1,0 +1,13 @@
+{
+  "name": "cv-tailor",
+  "title": "Tailor CV to a job",
+  "description": "Analyses a job posting against your CV, scores the match, and rewrites the CV for that role without inventing anything.",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-24",
+      "notes": "First version: requirement analysis and prioritisation, match score, tailoring strategy, the tailored CV, and remaining gaps."
+    }
+  ]
+}
