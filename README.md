@@ -9,12 +9,13 @@ Each skill is a set of instructions you give your own AI assistant (ChatGPT, Cla
 | Skill | What it does | Latest |
 |---|---|---|
 | [`cover-letter`](cover-letter/) | Analyses your CV and a job posting, flags text planted for AI tools, and writes a personalised cover letter. | [1.0.0](cover-letter/versions/1.0.0/SKILL.md) |
+| [`cv-review`](cv-review/) | Scores your CV the way recruiters and ATS software read it, explains what to fix, and improves it with you without inventing anything. | [1.0.0](cv-review/versions/1.0.0/SKILL.md) |
 
 ## Using a skill
 
 1. Open the skill's latest `versions/<x.y.z>/SKILL.md` and copy it (or download the file).
 2. Paste it into your AI assistant as your first message.
-3. Give it what it asks for: your CV, the job posting, and anything else.
+3. Give it what it asks for: your CV, a job posting if the skill uses one, and anything else.
 
 ## Layout
 

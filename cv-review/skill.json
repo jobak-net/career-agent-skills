@@ -1,0 +1,13 @@
+{
+  "name": "cv-review",
+  "title": "CV review",
+  "description": "Scores a CV the way recruiters and ATS software read it, explains what to fix, and improves it with you without inventing anything.",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-23",
+      "notes": "First version: weighted scorecard, strengths and weaknesses, ATS and AI-writing review, priority plan, and a collaborative rewrite."
+    }
+  ]
+}
