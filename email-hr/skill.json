@@ -1,0 +1,13 @@
+{
+  "name": "email-hr",
+  "title": "Email to HR",
+  "description": "Writes natural, professional emails to HR, recruiters and hiring managers: applications, follow-ups, interviews, offers, replies and referrals.",
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "date": "2026-11-24",
+      "notes": "First version: seven kinds of job-search email, tone defaults, subject lines, and reviewing an existing draft."
+    }
+  ]
+}
